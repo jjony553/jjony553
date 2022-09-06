@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#61DAFB
+- 😄 I'm looking for a job using React.
+- 📱 Contact me : whdgus553@naver.com
