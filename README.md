@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I'm looking for a job using React.
+- 😄 I'm looking for a job using Flutter.
 - 📱 Contact me : whdgus553@naver.com
